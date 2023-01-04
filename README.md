@@ -1,0 +1,1 @@
+**NOTE**: This is a Demo Repository I built using a tutorial from the following link [here](https://andela.com/insights/scaffolding-make-a-ruby-on-rails-app-in-just-5-minutes/). 
