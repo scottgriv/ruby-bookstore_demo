@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Ruby, Ruby on Rails, RubyGems <br>
 **Category:** Web Application <br>
-**Order:** 0 <br>
+**Order:** 28 <br>
 
 ## Parameters
 
